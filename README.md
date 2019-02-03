@@ -1,2 +1,2 @@
-# dev_public
-Arma 2 / Arma 3 scripting; Web.
+# Готовые и модифицированные скрипты by R3DC0R3
+Arma 2 / Arma 3
